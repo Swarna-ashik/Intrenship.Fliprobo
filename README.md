@@ -12,30 +12,22 @@ During Duration I work on Several Web Scraping, Machine Learning and Natural Lan
 
 
 Web Scraping Assignments
-
 Web Scraping Assignment 1 - Beautiful Soup
-
 Web Scraping Assignment 2 - Selenium
-
 Web Scraping Assignment 3 - Selenium Exception Handling
-
 Web Scraping Assignment 5 - Selenium
-
 Worksheet Assignment on ML, Stats and Python
+
 
 
 Machine Learning (ML) Projects
 
 
-Micro Credit Defaulter {Data Provided}
-
-Used Car price predication using ML {Data Scrap using Selenium before Model Building}
-
-Customer Retention in Ecommerce sector {Data Provided}
-
-Flight Price Predication using Machine Learning {Data Scrap using Selenium before Model Building}
-
-Surprise Housing - Housing Price Predication & Analysis Project {Data Provided}
+Micro Credit Defaulter {Data Provided} ,
+Used Car price predication using ML {Data Scrap using Selenium before Model Building} ,
+Customer Retention in Ecommerce sector {Data Provided} ,
+Flight Price Predication using Machine Learning {Data Scrap using Selenium before Model Building} ,
+Surprise Housing - Housing Price Predication & Analysis Project {Data Provided} .
 
 
 
